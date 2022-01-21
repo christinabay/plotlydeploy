@@ -1,0 +1,8 @@
+
+
+.jumbotron {
+    background-image: url('../images/img.jpeg');
+    color: white;
+    outline: black;
+    text-align: left;
+}
